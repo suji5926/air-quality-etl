@@ -62,3 +62,14 @@ Python scripting, data cleaning, ETL concepts, SQLite database handling, structu
 ## Conclusion
 
 This project demonstrates practical ETL fundamentals by connecting data extraction, transformation, database storage and visualization in a single workflow. It complements business analytics projects by showcasing the data preparation process that supports reliable reporting.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cca24b5d-2d69-4706-aa2e-06f9411a516d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f47452e7-40c5-4778-8577-a89648d1705c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdff277a-a0d0-426b-9880-8a5a175aa6fd" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823e26be-db89-42b4-96ae-501dd7430654" />
+
+
+
